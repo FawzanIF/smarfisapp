@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187689626016",
+    "project_id": "smarfisapp",
+    "storage_bucket": "smarfisapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187689626016:android:239f142f68cae9b9b9dcc5",
+        "android_client_info": {
+          "package_name": "com.example.smarfisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187689626016-2sf5hqgdtdoqo5j9rk0gt7t1v19ignm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtEjQ2UEVjbptcCPH3q1gVqP8idSCimXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187689626016-2sf5hqgdtdoqo5j9rk0gt7t1v19ignm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
